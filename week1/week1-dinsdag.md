@@ -2,7 +2,7 @@
 
 **Datum:** `14/01/2025`  
 **Studentnaam:** `Wout Van Impe`  
-**Groepsnaam:** `De`
+**Groepsnaam:** `De Badeendjes`
 
 ---
 
@@ -33,6 +33,6 @@
 
 > **Algmeeen gevoel:**
 >
-> - **"Ça va, maar wel wat moe"** 🥱
+> - Ça va, maar wel wat moe 🥱
 
 ---
