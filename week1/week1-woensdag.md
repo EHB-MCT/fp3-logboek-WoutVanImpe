@@ -1,6 +1,6 @@
 # Logboek
 
-**Datum:** `14/01/2025`  
+**Datum:** `15/01/2025`  
 **Studentnaam:** `Wout Van Impe`  
 **Groepsnaam:** `De Badeendjes`
 
