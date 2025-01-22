@@ -10,13 +10,23 @@
 
 > **Activiteiten:**
 >
-> - Documentatie gemaakt met de HTML/CSS/JS-bestanden voor de front-end.
-> - Een basis CSS-stylesheet opgezet.
-> - De homepagina opgebouwd in HTML en gestyled met CSS.
-> - Menu-items toegevoegd op de homepagina en functioneel gemaakt via JavaScript.
-> - De UI van de filter functioneel gemaakt met JavaScript ([voorbeeld](https://codepen.io/RobotsPlay/pres/pyNLdL)).
-> - De homepagina responsief gemaakt.
-> - Een overlay-HTML-element aangemaakt waarmee je items kunt toevoegen aan je winkelmandje.
+> - De `index.html` opgebouwd met:
+>   - Navigatiebalk inclusief logo, menu-items (Catering, Zaalverhuur, Contact) en een hamburger-menu voor mobiele weergave.
+>   - Headersectie met een welkomstboodschap en beschrijving van de missie van BelCatering.
+>   - Filtersectie met een dropdown-menu en checkboxen voor filteropties (Vlees, Vis, Veggie).
+>   - Dynamische weergave van menu-items (Buffetten en Broodjes) met afbeeldingen, beschrijvingen, en knoppen voor details.
+>   - Overlay-element voor productdetails, gekoppeld aan de menu-items.
+> - JavaScript-functionaliteiten in `index.js`:
+>   - Filter-functionaliteit geïmplementeerd:
+>     - Dropdown-menu met checkboxen interactief gemaakt ([bron](https://codepen.io/RobotsPlay/pres/pyNLdL)).
+>     - Dynamische weergave en verwijdering van actieve filters.
+>   - Navigatie: Hamburger-menu interactief gemaakt voor mobiele gebruikers.
+>   - Overlay-functionaliteit:
+>     - Dynamische inhoud op basis van geselecteerde menu-items (titel, beschrijving, en type-specifieke opties).
+>     - Buffetten: Opties weergegeven als checkboxen.
+>     - Broodjes: Opties weergegeven met prijzen en hoeveelheden, inclusief live-update van het totaal.
+>     - Toevoegen aan winkelmandje gekoppeld aan overlay.
+> - CSS geschreven om de homepagina volledig responsief te maken (`alle css files`).
 
 ---
 
@@ -24,7 +34,7 @@
 
 > **Nieuwe skills:**
 >
-> - Ik heb geleerd hoe ik een checkbox-dropdown moet maken.
+> - Ik heb geleerd hoe ik een checkbox-dropdownfilter moet maken.
 
 ---
 

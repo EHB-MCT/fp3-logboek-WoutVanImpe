@@ -10,14 +10,15 @@
 
 > **Activiteiten:**
 >
-> - We zijn met de hele groep naar Groot Eiland gegaan en hebben daar een rondleiding gekregen over de werking van de organisatie.
-> - We hebben onze vragen aan de klant gesteld en ik heb de antwoorden genoteerd.
+> - We zijn met **de hele groep** naar Groot Eiland gegaan en hebben daar een rondleiding gekregen over de werking van de organisatie.
+> - We hebben onze vragen aan de klant gesteld en de antwoorden genoteerd.
 > - Ik heb het scrumboard bijgewerkt met de nieuwe info van de klant.
 > - Ik heb het scrumboard ook gedigitaliseerd en ingediend.
-> - Ik heb de opdracht gepitcht.
+> - Ik heb ons concept gepitcht.
 > - Ik heb aan mijn moodboard gewerkt.
-> - Ik heb aan mijn persona's gewerkt.
-> - Nagedacht met de rest over hoe we AI willen implementeren in ons systeem.
+>   - feedback gevraagd over hoe dit aan te pakken aangezien we geen nieuwe stijl nodig hebben
+>   - Pintrest en Behance afgescrold opzoek naar interessante UI elementen.
+> - Nagedacht met **de groep** over hoe we AI willen implementeren in ons systeem.
 
 ---
 

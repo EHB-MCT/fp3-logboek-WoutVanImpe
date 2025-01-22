@@ -12,6 +12,7 @@
 >
 > - Het scrumboard aangevuld en aangepast.
 > - Gebrainstormd met het **hele team** over een nieuwe flow.
+>   - Opzoek gegaan naar de gedachtengang van de klanten van onze klant.
 > - Samen met **het team** een nieuwe flow geschetst.
 > - Begonnen met het ontwerpen van de nieuwe wireframe.
 
@@ -21,7 +22,7 @@
 
 > **Nieuwe skills:**
 >
-> - Niks speciaal vandaag geleerd.
+> - Dat het echt belangrijk is om te denken als de doelgroep.
 
 ---
 

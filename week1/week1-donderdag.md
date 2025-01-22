@@ -11,8 +11,9 @@
 > **Activiteiten:**
 >
 > - Samen met **Qwinte** de OpenAI API onderzocht.
-> - De OpenAI API getest in VS Code.
+> - De OpenAI API getest in VS Code (`chatgpt.js`).
 > - Aan de wireframe gewerkt samen met de **rest van het team**.
+>   - Ik heb vooral nagedacht over de menuselectie waarbij je items kan toevoegen aan je winkelmand.
 
 ---
 

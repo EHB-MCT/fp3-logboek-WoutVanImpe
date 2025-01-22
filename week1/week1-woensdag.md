@@ -16,7 +16,7 @@
 > - Gebrainstormd over de wireframe.
 > - Samen met **Qwinte** research gedaan naar verschillende AI-oplossingen zoals `Gorse`.
 > - Samen met **Qwinte** research gedaan naar NLP's zoals `node-nlp`.
-> - `node-nlp` getest in VS Code om functionaliteiten te verkennen.
+> - `node-nlp` getest in VS Code (`nlp.js`) om functionaliteiten te verkennen.
 
 ---
 

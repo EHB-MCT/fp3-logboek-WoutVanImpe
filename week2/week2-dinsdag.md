@@ -10,9 +10,10 @@
 
 > **Activiteiten:**
 >
-> - De hele dag de wireframe afgewerkt en verbeterd samen met de rest van de groep.
-> - Research gedaan naar de verschillende UI-componenten die momenteel populair zijn, zoals buttons, cards, en navigatiebalken.
+> - De hele dag de wireframe afgewerkt en verbeterd samen met de rest van **de groep**.
 > - Feedback ontvangen op onze wireframe en deze grondig geanalyseerd om verbeterpunten te identificeren.
+> - Research gedaan naar de verschillende UI-componenten die momenteel populair zijn, zoals buttons, cards, en navigatiebalken.
+
 
 ---
 
