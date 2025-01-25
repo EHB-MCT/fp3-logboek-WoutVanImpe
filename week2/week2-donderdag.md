@@ -10,7 +10,6 @@
 
 > **Activiteiten:**
 >
-
 > - De `MongoDB`-database aangevuld met menu-items.
 > - De back-end live gemaakt via `Render.com`.
 > - Gewerkt in `index.js`:
@@ -33,6 +32,6 @@
 
 > **Algmeeen gevoel:**
 >
-> - k voel me misselijk en ziek 🤢
+> - Ik voel me misselijk en ziek 🤢
 
 ---
